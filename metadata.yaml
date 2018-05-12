@@ -1,0 +1,34 @@
+_repo: La-ruelle-mal-assortie--13-ou-entretiens-amoureux-d-une-dame--loquente-avec-un-cavalier-gasco__26351
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Marguerite, Queen, consort of Henry IV, King of France
+    alias: Valois, Marguerite de
+    birthdate: 1553
+    deathdate: 1615
+    gutenberg_agent_id: '1328'
+    url: http://www.gutenberg.org/2009/agents/1328
+    wikipedia: http://en.wikipedia.org/wiki/Marguerite_de_Valois
+description: ''
+gutenberg_bookshelf: FR Séduction et libertinage
+gutenberg_issued: '2008-08-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26351'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HQ'
+- !lcsh 'Marguerite, Queen, consort of Henry IV, King of France, 1553-1615'
+- !lcsh 'Love'
+- !lcc 'DC'
+- !lcc 'PQ'
+title: "La ruelle mal assortie\r\nou entretiens amoureux d'une dame éloquente avec\
+  \ un cavalier gascon plus beau de corps que d'esprit et qui a autant d'ignorance\
+  \ comme elle a de sçavoir"
+url: http://www.gutenberg.org/ebooks/26351
