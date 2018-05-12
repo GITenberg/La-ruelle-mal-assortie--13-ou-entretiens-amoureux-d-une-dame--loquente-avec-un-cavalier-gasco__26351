@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1328
     wikipedia: http://en.wikipedia.org/wiki/Marguerite_de_Valois
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26351#La-ruelle-mal-assortie--13-ou-entretiens-amoureux-d-une-dame--loquente-avec-un-cavalier-gasco_
 gutenberg_bookshelf: FR Séduction et libertinage
 gutenberg_issued: '2008-08-18'
 gutenberg_type: Text
